@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Web Hosting </title>)
+    </head>
+    <body style="background-color:lavender;">
+    <h6> Welcome </h6>
+        <h1> Web Hosting Test Demo </h1>
+        <p> This is our first index web hosting page.</p>
+        <marquee> Made by Anshika Jain </marquee>
+        </body>
+</html>
